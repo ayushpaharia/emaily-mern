@@ -1,5 +1,5 @@
 node_modules
-keys.mjs
 .env
+client
 prod.env
 dev.env
